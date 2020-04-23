@@ -1,0 +1,9 @@
+td{
+    background-color: #d3dded;
+    padding: 5px;
+    border: 2px solid #000000;
+    cursor: move;
+}
+Footer{
+    font-family: Times; font-size: small; font-weight: normal;
+}
